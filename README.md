@@ -1,5 +1,5 @@
 <!--
-    SOYAB RAWAT | DEVELOPER PROFILE
+    JANNAT | DEVELOPER PROFILE
     Design: Futuristic • AI-Inspired • JARVIS Aesthetic
 -->
 
@@ -34,15 +34,15 @@
 ## `// 01. INITIALIZING DEVELOPER PROFILE`
 
 ```text
-USER       : SOYAB RAWAT
-ROLE       : B.TECH COMPUTER SCIENCE STUDENT
+USER       : JANNAT
+ROLE       : B.TECH AI ML STUDENT
 INTEREST   : AI | SOFTWARE ENGINEERING | AUTOMATION
 CURRENT    : BUILDING JARVIS AI ASSISTANT
 OBJECTIVE  : TURN COMPLEX IDEAS INTO USEFUL SOFTWARE
 STATUS     : LEARNING • EXPERIMENTING • BUILDING
 ```
 
-Hey there! I'm **Soyab Rawat**, a Computer Science student interested in building intelligent applications, solving problems through code, and exploring how AI can make computers more useful.
+Hey there! I'm **JANNAT**, a Computer Science student interested in building intelligent applications, solving problems through code, and exploring how AI can make computers more useful.
 
 I'm particularly fascinated by the idea of creating a personal AI assistant inspired by J.A.R.V.I.S.—one that can understand instructions, remember useful information, interact through voice, understand the computer screen, and execute tasks with appropriate security controls.
 
